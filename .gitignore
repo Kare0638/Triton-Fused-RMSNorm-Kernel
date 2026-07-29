@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local-only Chinese reference doc (English README.md is the one that gets committed)
+README.zh-CN.md
